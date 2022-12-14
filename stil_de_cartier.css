@@ -1,5 +1,5 @@
 div {
-    font-family: 'Lemonada', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 li a {
     margin-right: 25px;
@@ -15,7 +15,7 @@ footer ul li {
     object-fit: cover;
 }
 body {
-    font-family: 'Lemonada', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 .li-servicii {
     font-size:20px;
